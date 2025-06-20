@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>调酒文化分享 | by Ziyi.</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="language-toggle">
+      <button id="lang-btn" class="lang-btn" aria-label="Switch Language" title="Switch Language">
+        <span class="lang-text">EN</span>
+      </button>
+    </div>
+    <h1 data-i18n="header.title">调酒文化分享 🍸</h1>
+    <p data-i18n="header.subtitle">by C. · 分享灵感与风味 · 文化 · 知识 · 实践</p>
+    <nav>
+      <a href="#culture" data-i18n="header.nav.culture">调酒文化</a>
+      <a href="#basics" data-i18n="header.nav.basics">基础知识</a>
+      <a href="#classics" data-i18n="header.nav.classics">经典鸡尾酒</a>
+      <a href="#gallery" data-i18n="header.nav.gallery">我的作品集</a>
+      <a href="#tips" data-i18n="header.nav.tips">调酒心得</a>
+    </nav>
+  </header>
+
+  <div class="container">
+
+    <div class="section" id="culture">
+      <h2 data-i18n="culture.title">🥂 调酒文化介绍</h2>
+      <div id="culture-content">
+        <p>调酒，英文叫 "Mixology"，是将不同风味、色彩和质感的酒与配料巧妙结合的艺术。它起源于 19 世纪的欧美社交场所，最初的鸡尾酒大多用于聚会、庆祝和社交活动，后来逐渐发展为一种风味探索和自我表达的方式。</p>
+        <p>调酒不仅仅是混合饮品，它融合了创意、工艺与文化。每一款鸡尾酒，背后都有属于它的故事和灵感来源。一杯经典的 Mojito，能让你感受到加勒比海的热情；一杯优雅的 Martini，则散发着经典与绅士风范。</p>
+        <p>今天，调酒已经成为一种独特的生活方式：用心调一杯酒，享受片刻的轻松与愉悦。</p>
+      </div>
+    </div>
+
+    <div class="section" id="basics">
+      <h2 data-i18n="basics.title">🍶 基础调酒知识</h2>
+      <h3 data-i18n="basics.spirits_title">六大基酒</h3>
+      <div class="grid">
+        <div class="grid-item">
+          <img src="vodka.webp" alt="伏特加 Vodka" loading="lazy" />
+          <strong data-spirit="vodka">伏特加</strong>
+          <p data-i18n="basics.spirits.vodka">清爽干净，百搭之选。</p>
+        </div>
+        <div class="grid-item">
+          <img src="gin.webp" alt="金酒 Gin" loading="lazy" />
+          <strong data-spirit="gin">金酒</strong>
+          <p data-i18n="basics.spirits.gin">草本香气，经典之选。</p>
+        </div>
+        <div class="grid-item">
+          <img src="rum.webp" alt="朗姆酒 Rum" loading="lazy" />
+          <strong data-spirit="rum">朗姆酒</strong>
+          <p data-i18n="basics.spirits.rum">热带风情，甜美香浓。</p>
+        </div>
+        <div class="grid-item">
+          <img src="tequila.webp" alt="龙舌兰 Tequila" loading="lazy" />
+          <strong data-spirit="tequila">龙舌兰</strong>
+          <p data-i18n="basics.spirits.tequila">墨西哥灵魂，激情四溢。</p>
+        </div>
+        <div class="grid-item">
+          <img src="whiskey.webp" alt="威士忌 Whiskey" loading="lazy" />
+          <strong data-spirit="whiskey">威士忌</strong>
+          <p data-i18n="basics.spirits.whiskey">醇厚浓烈，余韵悠长。</p>
+        </div>
+        <div class="grid-item">
+          <img src="brandy.webp" alt="白兰地 Brandy" loading="lazy" />
+          <strong data-spirit="brandy">白兰地</strong>
+          <p data-i18n="basics.spirits.brandy">果香醇厚，优雅绅士。</p>
+        </div>
+      </div>
+
+      <h3 data-i18n="basics.materials_title">常见辅助材料</h3>
+      <ul id="materials-list">
+        <li>利口酒：如君度橙酒、百利甜、金巴利</li>
+        <li>果汁：柠檬汁、菠萝汁、橙汁、西柚汁</li>
+        <li>糖浆：蓝橙糖浆、红石榴糖浆等调味与色彩搭配</li>
+        <li>装饰：薄荷叶、柠檬片、橙皮卷、透明冰球</li>
+      </ul>
+      <h3 data-i18n="basics.techniques_title">基础调酒技法</h3>
+      <ul id="techniques-list">
+        <li>摇（Shake）：用雪克壶混合出丰富气泡感</li>
+        <li>搅（Stir）：温和混合，适合烈酒基底</li>
+        <li>直调（Build）：在杯中直接叠加原料，简单快捷</li>
+        <li>压泥（Muddle）：释放水果或香草的风味</li>
+        <li>装饰（Garnish）：点睛之笔，美观又提升风味</li>
+      </ul>
+    </div>
+
+    <div class="section" id="classics">
+      <h2 data-i18n="classics.title">🍹 经典鸡尾酒</h2>
+      <p data-i18n="classics.subtitle">探索那些经久不衰的经典风味，每一杯都是历史的沉淀。</p>
+      <div class="search-container">
+        <input type="text" id="search-box" data-placeholder-i18n="classics.search_placeholder" placeholder="在此搜索经典鸡尾酒... (例如: Mojito)">
+      </div>
+      <div class="filter-container" id="filter-buttons">
+        <button class="filter-btn active" data-base="all" data-i18n="classics.filters.all">全部</button>
+        <button class="filter-btn" data-base="Gin" data-i18n="classics.filters.gin">金酒</button>
+        <button class="filter-btn" data-base="Rum" data-i18n="classics.filters.rum">朗姆酒</button>
+        <button class="filter-btn" data-base="Tequila" data-i18n="classics.filters.tequila">龙舌兰</button>
+        <button class="filter-btn" data-base="Vodka" data-i18n="classics.filters.vodka">伏特加</button>
+        <button class="filter-btn" data-base="Whiskey" data-i18n="classics.filters.whiskey">威士忌</button>
+        <button class="filter-btn" data-base="Brandy" data-i18n="classics.filters.brandy">白兰地</button>
+      </div>
+      <div class="grid" id="classics-grid">
+        <!-- Classic cocktails will be loaded here -->
+      </div>
+    </div>
+
+    <div class="section" id="gallery">
+      <h2 data-i18n="gallery.title">📸 我的作品集</h2>
+      <p data-i18n="gallery.subtitle">一些即兴的创作与练习，记录下探索风味的瞬间。</p>
+      <div class="carousel" id="gallery-carousel">
+        <!-- My creations will be loaded here -->
+      </div>
+    </div>
+
+    <div class="section" id="tips">
+      <h2 data-i18n="tips.title">🎯 调酒心得总结</h2>
+      <ul id="tips-list">
+        <li>🎨 色彩层次：善用糖浆与果汁创造视觉冲击。</li>
+        <li>🧊 冰块运用：透明冰球不仅降温，还增添观感。</li>
+        <li>🌿 装饰艺术：薄荷、柠檬片、橙皮等点缀。</li>
+        <li>📸 记录灵感：拍照记录，积累调酒灵感。</li>
+      </ul>
+      <p data-i18n="tips.conclusion">调酒是生活的一种表达方式，每一杯酒都是一段心情的延伸。希望你也能在调酒中找到属于自己的灵感！🥂</p>
+    </div>
+
+  </div>
+
+  <footer>
+    <p data-i18n="footer">&copy; 2025 Ziyi Zhao. All Rights Reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

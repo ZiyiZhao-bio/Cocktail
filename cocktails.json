@@ -1,0 +1,148 @@
+{
+  "classics": [
+    {
+      "name": "Mojito",
+      "image": "mojito.png",
+      "description": {
+        "zh": "清爽薄荷，古巴之魂。",
+        "en": "Refreshing mint, soul of Cuba."
+      },
+      "base": "Rum"
+    },
+    {
+      "name": "Negroni",
+      "image": "negroni.png",
+      "description": {
+        "zh": "经典苦甜，意式风情。",
+        "en": "Classic bitter-sweet, Italian style."
+      },
+      "base": "Gin"
+    },
+    {
+      "name": "Margarita",
+      "image": "Margrita.png",
+      "description": {
+        "zh": "龙舌兰与青柠的完美共舞。",
+        "en": "Perfect dance of tequila and lime."
+      },
+      "base": "Tequila"
+    },
+    {
+      "name": "Long Island Iced Tea",
+      "image": "longIslandIcedTea.png",
+      "description": {
+        "zh": "看似温柔，实则烈性。",
+        "en": "Seemingly gentle, actually strong."
+      },
+      "base": "Vodka"
+    },
+    {
+      "name": "Dry Martini",
+      "image": "DryMartini.png",
+      "description": {
+        "zh": "鸡尾酒之王，简约不凡。",
+        "en": "King of cocktails, simple yet extraordinary."
+      },
+      "base": "Gin"
+    },
+    {
+      "name": "Sidecar",
+      "image": "SideCar.png",
+      "description": {
+        "zh": "优雅果香，法式经典。",
+        "en": "Elegant fruity, French classic."
+      },
+      "base": "Brandy"
+    },
+    {
+      "name": "Piña Colada",
+      "image": "pinecolada.png",
+      "description": {
+        "zh": "热带风情，椰林飘香。",
+        "en": "Tropical vibes, coconut paradise."
+      },
+      "base": "Rum"
+    },
+    {
+      "name": "Tequila Sunrise",
+      "image": "TequilaSunrise.png",
+      "description": {
+        "zh": "壮丽日出，色彩斑斓。",
+        "en": "Magnificent sunrise, colorful layers."
+      },
+      "base": "Tequila"
+    }
+  ],
+  "myCreations": [
+    {
+      "name": {
+        "zh": "收藏 · Collection",
+        "en": "Collection"
+      },
+      "image": "collection.JPG"
+    },
+    {
+      "name": {
+        "zh": "侧车 · Side Car",
+        "en": "Side Car"
+      },
+      "image": "SideCar.JPG"
+    },
+    {
+      "name": {
+        "zh": "莫吉托 · Mojito",
+        "en": "Mojito"
+      },
+      "image": "Mojito.JPG"
+    },
+    {
+      "name": {
+        "zh": "风 · Windy",
+        "en": "Windy"
+      },
+      "image": "Windy.JPG"
+    },
+    {
+      "name": {
+        "zh": "咕嘟咕嘟 · GuduGudu",
+        "en": "GuduGudu"
+      },
+      "image": "GuduGudu.JPG"
+    },
+    {
+      "name": {
+        "zh": "初恋 · First Love",
+        "en": "First Love"
+      },
+      "image": "FirstLove.jpg"
+    },
+    {
+      "name": {
+        "zh": "特调 · 乌龙百利",
+        "en": "Special Mix · Oolong Bailey's"
+      },
+      "image": "C_OolongBaileys.JPG"
+    },
+    {
+      "name": {
+        "zh": "特调 · 椰林飘香",
+        "en": "Special Mix · Coconut Paradise"
+      },
+      "image": "C_PineColada.JPG"
+    },
+    {
+      "name": {
+        "zh": "青春合伙人",
+        "en": "Youth Partnership"
+      },
+      "image": "YouthMixture.JPG"
+    },
+    {
+      "name": {
+        "zh": "龙舌兰日出",
+        "en": "Tequila Sunrise"
+      },
+      "image": "TequilaSunrise.jpg"
+    }
+  ]
+}

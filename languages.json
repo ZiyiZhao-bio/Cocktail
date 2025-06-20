@@ -1,0 +1,156 @@
+{
+  "zh": {
+    "header": {
+      "title": "调酒文化分享 🍸",
+      "subtitle": "by C. · 分享灵感与风味 · 文化 · 知识 · 实践",
+      "nav": {
+        "culture": "调酒文化",
+        "basics": "基础知识", 
+        "classics": "经典鸡尾酒",
+        "gallery": "我的作品集",
+        "tips": "调酒心得"
+      }
+    },
+    "culture": {
+      "title": "🥂 调酒文化介绍",
+      "content": [
+        "调酒，英文叫 \"Mixology\"，是将不同风味、色彩和质感的酒与配料巧妙结合的艺术。它起源于 19 世纪的欧美社交场所，最初的鸡尾酒大多用于聚会、庆祝和社交活动，后来逐渐发展为一种风味探索和自我表达的方式。",
+        "调酒不仅仅是混合饮品，它融合了创意、工艺与文化。每一款鸡尾酒，背后都有属于它的故事和灵感来源。一杯经典的 Mojito，能让你感受到加勒比海的热情；一杯优雅的 Martini，则散发着经典与绅士风范。",
+        "今天，调酒已经成为一种独特的生活方式：用心调一杯酒，享受片刻的轻松与愉悦。"
+      ]
+    },
+    "basics": {
+      "title": "🍶 基础调酒知识",
+      "spirits_title": "六大基酒",
+      "spirits": {
+        "vodka": "清爽干净，百搭之选。",
+        "gin": "草本香气，经典之选。",
+        "rum": "热带风情，甜美香浓。",
+        "tequila": "墨西哥灵魂，激情四溢。",
+        "whiskey": "醇厚浓烈，余韵悠长。",
+        "brandy": "果香醇厚，优雅绅士。"
+      },
+      "materials_title": "常见辅助材料",
+      "materials": [
+        "利口酒：如君度橙酒、百利甜、金巴利",
+        "果汁：柠檬汁、菠萝汁、橙汁、西柚汁",
+        "糖浆：蓝橙糖浆、红石榴糖浆等调味与色彩搭配",
+        "装饰：薄荷叶、柠檬片、橙皮卷、透明冰球"
+      ],
+      "techniques_title": "基础调酒技法",
+      "techniques": [
+        "摇（Shake）：用雪克壶混合出丰富气泡感",
+        "搅（Stir）：温和混合，适合烈酒基底",
+        "直调（Build）：在杯中直接叠加原料，简单快捷",
+        "压泥（Muddle）：释放水果或香草的风味",
+        "装饰（Garnish）：点睛之笔，美观又提升风味"
+      ]
+    },
+    "classics": {
+      "title": "🍹 经典鸡尾酒",
+      "subtitle": "探索那些经久不衰的经典风味，每一杯都是历史的沉淀。",
+      "search_placeholder": "在此搜索经典鸡尾酒... (例如: Mojito)",
+      "filters": {
+        "all": "全部",
+        "gin": "金酒",
+        "rum": "朗姆酒",
+        "tequila": "龙舌兰",
+        "vodka": "伏特加",
+        "whiskey": "威士忌",
+        "brandy": "白兰地"
+      }
+    },
+    "gallery": {
+      "title": "📸 我的作品集",
+      "subtitle": "一些即兴的创作与练习，记录下探索风味的瞬间。"
+    },
+    "tips": {
+      "title": "🎯 调酒心得总结",
+      "content": [
+        "🎨 色彩层次：善用糖浆与果汁创造视觉冲击。",
+        "🧊 冰块运用：透明冰球不仅降温，还增添观感。",
+        "🌿 装饰艺术：薄荷、柠檬片、橙皮等点缀。",
+        "📸 记录灵感：拍照记录，积累调酒灵感。"
+      ],
+      "conclusion": "调酒是生活的一种表达方式，每一杯酒都是一段心情的延伸。希望你也能在调酒中找到属于自己的灵感！🥂"
+    },
+    "footer": "© 2024 C. All Rights Reserved."
+  },
+  "en": {
+    "header": {
+      "title": "Cocktail Culture Sharing 🍸",
+      "subtitle": "by C. · Sharing Inspiration & Flavors · Culture · Knowledge · Practice",
+      "nav": {
+        "culture": "Culture",
+        "basics": "Basics",
+        "classics": "Classic Cocktails",
+        "gallery": "My Gallery",
+        "tips": "Tips"
+      }
+    },
+    "culture": {
+      "title": "🥂 Introduction to Cocktail Culture",
+      "content": [
+        "Mixology is the art of skillfully combining different flavors, colors, and textures of spirits with ingredients. It originated in 19th-century European and American social venues, where cocktails were initially used for parties, celebrations, and social activities, later evolving into a way of flavor exploration and self-expression.",
+        "Mixology is not just about mixing drinks; it integrates creativity, craftsmanship, and culture. Behind every cocktail lies its own story and source of inspiration. A classic Mojito can make you feel the passion of the Caribbean; an elegant Martini exudes classic and gentlemanly charm.",
+        "Today, mixology has become a unique lifestyle: crafting a drink with care and enjoying moments of relaxation and pleasure."
+      ]
+    },
+    "basics": {
+      "title": "🍶 Basic Mixology Knowledge",
+      "spirits_title": "Six Base Spirits",
+      "spirits": {
+        "vodka": "Clean and refreshing, versatile choice.",
+        "gin": "Botanical aroma, classic selection.",
+        "rum": "Tropical vibes, sweet and rich.",
+        "tequila": "Mexican soul, passionate and vibrant.",
+        "whiskey": "Mellow and intense, lingering finish.",
+        "brandy": "Fruity and mellow, elegant gentleman."
+      },
+      "materials_title": "Common Supporting Materials",
+      "materials": [
+        "Liqueurs: such as Cointreau, Bailey's, Campari",
+        "Juices: lemon juice, pineapple juice, orange juice, grapefruit juice",
+        "Syrups: blue curaçao, grenadine for flavor and color combinations",
+        "Garnishes: mint leaves, lemon slices, orange peels, clear ice spheres"
+      ],
+      "techniques_title": "Basic Mixology Techniques",
+      "techniques": [
+        "Shake: Use a shaker to create rich bubbles",
+        "Stir: Gentle mixing, suitable for spirit-based cocktails",
+        "Build: Layer ingredients directly in the glass, simple and quick",
+        "Muddle: Release flavors from fruits or herbs",
+        "Garnish: The finishing touch, beautiful and flavor-enhancing"
+      ]
+    },
+    "classics": {
+      "title": "🍹 Classic Cocktails",
+      "subtitle": "Explore those timeless classic flavors, each drink is a precipitation of history.",
+      "search_placeholder": "Search classic cocktails... (e.g.: Mojito)",
+      "filters": {
+        "all": "All",
+        "gin": "Gin",
+        "rum": "Rum",
+        "tequila": "Tequila",
+        "vodka": "Vodka",
+        "whiskey": "Whiskey",
+        "brandy": "Brandy"
+      }
+    },
+    "gallery": {
+      "title": "📸 My Gallery",
+      "subtitle": "Some impromptu creations and practices, capturing moments of flavor exploration."
+    },
+    "tips": {
+      "title": "🎯 Mixology Tips Summary",
+      "content": [
+        "🎨 Color Layers: Use syrups and juices to create visual impact.",
+        "🧊 Ice Usage: Clear ice spheres not only cool but also enhance appearance.",
+        "🌿 Garnish Art: Mint, lemon slices, orange peels as embellishments.",
+        "📸 Record Inspiration: Take photos to record and accumulate mixology inspiration."
+      ],
+      "conclusion": "Mixology is a way of expressing life, each drink is an extension of a mood. Hope you can also find your own inspiration in mixology! 🥂"
+    },
+    "footer": "© 2024 C. All Rights Reserved."
+  }
+} 

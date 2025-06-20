@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>调酒文化分享 | by Ziyi.</title>
+    <script>
+        // 自动重定向到主页面
+        window.location.href = './cocktailShare.html';
+    </script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #fdfdfd, #dde7f3);
+            color: #1c1c1e;
+        }
+        .loading {
+            text-align: center;
+        }
+        .loading h1 {
+            margin-bottom: 1rem;
+            color: #0a84ff;
+        }
+        .loading p {
+            color: #636366;
+        }
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #f0f0f0;
+            border-top: 4px solid #0a84ff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 1rem auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="loading">
+        <h1>🍸 调酒文化分享</h1>
+        <div class="spinner"></div>
+        <p>正在加载中... / Loading...</p>
+        <p><a href="./cocktailShare.html" style="color: #0a84ff; text-decoration: none;">如果没有自动跳转，请点击这里</a></p>
+    </div>
+</body>
+</html> 
